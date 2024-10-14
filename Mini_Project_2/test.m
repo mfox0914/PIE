@@ -1,0 +1,1 @@
+s = serialport(ports, baudrate);
